@@ -10,3 +10,9 @@ Para hacer una lista usamos `*`
 * Limones
 * Naranjas
 * Peras
+
+1. Sergio
+2. Antonella
+3. Laura
+4. Teresa
+5. Simeon
