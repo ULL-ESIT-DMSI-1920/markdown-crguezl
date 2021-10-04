@@ -18,3 +18,10 @@ Para hacer una lista usamos `*`
 5. Simeon
 
 @alu0101232812
+
+🚢
+
+
+Here is a simple footnote[^1].
+
+[^1]: My reference.
