@@ -25,3 +25,5 @@ Para hacer una lista usamos `*`
 Here is a simple footnote[^1].
 
 [^1]: My reference.
+
+Some text after the footnote
