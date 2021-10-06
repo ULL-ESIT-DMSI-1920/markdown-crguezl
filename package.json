@@ -1,0 +1,22 @@
+{
+  "name": "markdown-crguezl",
+  "version": "1.0.0",
+  "description": "un proyecto de ejemplo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'hello world!'",
+    "start": "echo arrancando",
+    "chuchu": "ls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-DMSI-1920/markdown-crguezl.git"
+  },
+  "keywords": [ "markdown", "ULL", "DMSI"],
+  "author": "crguezl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-DMSI-1920/markdown-crguezl/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-DMSI-1920/markdown-crguezl#readme"
+}
